@@ -1,4 +1,4 @@
 # shadowpasswordcracker
 
-This one is able crack the Unix root password from the /etc/shadow
-Once you have the shadow password list then with help of piece of python code you can able to decode it.
+This one is able crack the Unix root password from the /etc/shadow.
+Once we have the shadow encrypted password file, then with help of  python code and Dictionary password list we can decode the encrypted password.
